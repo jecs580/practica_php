@@ -1,7 +1,7 @@
 <?php
     $username=$_GET["username"];
     $password=$_GET["password"];
-    if ($username =="jorge" && $password =="12345678") {
+    if ($username =="jorge" && $password =="123456") {
         $_SESSION["id_user"]=100;
         header("Location: saludo.php"); // Redirecionamiento directo
         // echo "<a href = 'saludo.php'> Saludo</a>";
