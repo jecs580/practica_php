@@ -1,7 +1,11 @@
 <!-- TODO: Buscar metodos para ofuscar codigo
 (Tratar que nuestro codigo sea dificil de leer para personas ajenas al prouyecto). -->
 <!-- TODO: Buscar patrones de diseño -->
-
+<!-- TODO: ¿Bases de datos SGBD? -->
+<!-- TODO: LDD -->
+<!-- TODO: ¿MDF? -->
+<!-- NOTA: Un backup debe tener el tiple del tamaño de la base de dato -->
+<!-- NOTA: Truncate reinicia el incremental a diferencia del delete mantiene el numero -->
 <?php
     include "cabecera.inc.php";
 ?> 
