@@ -9,6 +9,7 @@
     <body>
         <div id="cabecera" >
             Universidad Mayor de San Andres
+            <br>
             Facultad de ciencias Puras y Naturales
         </div>
         <div id="menu" >

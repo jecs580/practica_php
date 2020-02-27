@@ -59,9 +59,9 @@ Salida
 LP CHUQU
 1   2
 
+-- TODO Hacer lo mismo de arriba con los 330 municipios, buscar en la pagina de facebook el link para obtener los municipios- fecha de entrega 05/03/2020
+
 
 -- Buscar por esquema las columnas
 select *
 from information_schema.columns where table_name='alumno'
-
--- TODO Hacer lo mismo de arriba con los 330 municipios, buscar en la pagina de facebook el li para obtener los municipios- fecha de entrega 05/03/2020
