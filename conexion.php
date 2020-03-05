@@ -36,3 +36,12 @@ include "pie.inc.php";
 ?>
 <!-- TODO Unir almacena y modifica en un solo archivo -->
 <!-- TODO Buscar validaciones para campos -->
+
+<!-- Un metodo es un procedimiento y/o funcion que altera el comportamiento de un objeto -->
+<!-- Frameworks de programacion y Frameworks de trabajo (zachman)
+De esto surge el MVC o 3 Capas que es una mejora del modelo monolitico
+El modelo MVC puro se considera romantico(Por que es perfecto)
+Un modelo basico que contenga Vista, logica, Datos es el modelo Cliente Servidor, no siempre
+se puede llegar a esto y se le da a la logica mas control sobre la vista y sobre los datos, este 
+modelo es llama Mixto. Existen Framework por capa, un ejemplo para los datos es: Hibbernate
+ -->
